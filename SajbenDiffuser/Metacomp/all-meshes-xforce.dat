@@ -1,6 +1,8 @@
 # integrated x-directed force on top, bottom and both walls (N) 
 # mesh, top, bottom, both walls
-coarse     2.0339544e+02  5.4315538e+01  2.5771098e+02 
-medium     2.3023574e+02  5.4344480e+01  2.8458022e+02 
-fine       2.3553637e+02  5.4178709e+01  2.8971508e+02  
-ultrafine  2.3698563e+02  5.4066485e+01  2.9105211e+02  
+coarse     2.2138034e+02  5.4025570e+01  2.7540591e+02
+medium     2.4975181e+02  5.4070145e+01  3.0382196e+02
+fine       2.5528092e+02  5.3913150e+01  3.0919407e+02
+ultrafine  2.5691242e+02  5.3807468e+01  3.1071989e+02
+
+  

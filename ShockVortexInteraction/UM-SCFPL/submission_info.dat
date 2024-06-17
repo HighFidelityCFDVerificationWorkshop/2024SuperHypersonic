@@ -1,15 +1,14 @@
 Submitted by: William White, University of Michigan, wjwhit@umich.edu
 Solver: Hybrid discontinuous Galerkin with subcell finite volume discontinuity-capturing
-Results provided for P=[1,2,3,4] with 10 mesh resolutions for each solution order
+Results provided for P=[1,2,3,4] with 8 mesh resolutions for each solution order
 Time integration done via an explicit third-order SSP Runge-Kutta scheme with CFL = 0.45
-MUSCL subcell reconstruction for P=[1,2,3,4]
+MUSCL subcell reconstruction for P=[1]
 WENO5 subcell reconstruction for P=[2,3,4]
 Discontinuity detection done via shock and entropy wave sensors
 
 Directory layout is as follows:
 [approximation order]
 -[mesh]
---[subcell reconstruction scheme]
 
 Data for lines 1-3 are provided in .csv format
 
